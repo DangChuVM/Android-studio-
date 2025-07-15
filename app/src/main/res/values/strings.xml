@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DangVanChuong</string>
+    <string name="button">Click</string>
+    <string name="noobpro">You Noob</string>
+
+    <string name="exit_title">Exit App</string>
+    <string name="exit_confirm_message">Are you sure you want to exit?</string>
+    <string name="exit_ok">Exit</string>
+    <string name="exit_cancel">Cancel</string>
+</resources>

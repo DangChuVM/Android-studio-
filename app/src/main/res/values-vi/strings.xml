@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đặng Văn Chuổng</string>
+    <string name="button">Ấn vào đây</string>
+    <string name="noobpro">Bạn Noob</string>
+
+    <string name="exit_title">Thoát ứng dụng</string>
+    <string name="exit_confirm_message">Bạn có chắc chắn muốn thoát không?</string>
+    <string name="exit_ok">Thoát</string>
+    <string name="exit_cancel">Hủy</string>
+</resources>
